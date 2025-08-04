@@ -1,5 +1,7 @@
 
 -- Libray Schema
+-- Create Database
+CREATE DATABASE LIBRARY_DATABASE;
 
 -- Create Table Books
 CREATE TABLE AUTHORS(
